@@ -1,0 +1,13 @@
+h1{
+    color: black;
+}
+body{
+    background-color: brown;
+}
+div{
+    background-color: chartreuse;
+    height: 300px;
+    width: 800px;
+    border: black 2px solid;
+    
+}

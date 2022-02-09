@@ -1,0 +1,25 @@
+div{
+    width: 22%;
+    height: 312px;
+    background-color: rgb(247, 177, 177);
+    border: black 2px solid;
+    float: left;
+    
+}
+h2{
+    text-align: center;
+    color: rgb(10, 10, 10);
+}
+h3{
+    text-align: center;
+    color: rgb(41, 4, 71);
+}
+img{
+    width: 294px;
+    height: 110px;
+    border-radius: 50px;
+}
+p{
+    color: rgb(12, 12, 12);
+    /* text-size-adjust: 13px; */
+}

@@ -1,0 +1,12 @@
+div{
+    width: 23%;
+    background-color: turquoise;
+    float: left;
+    border: black 2px solid;
+
+}
+img{
+    width: 50%;
+    height: 10%;
+    border-radius: 50px;
+}

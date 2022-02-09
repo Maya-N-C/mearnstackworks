@@ -1,0 +1,118 @@
+body{
+    background-color: black;
+}
+h3{
+   color: wheat;
+   margin-left: 350px;
+   /* text-align: center; */
+}
+div{
+    height: 122px;
+    width: 76px;
+
+}
+#a1{
+    background-color: grey;
+    margin-top: 407px;
+    margin-left: 131px;
+}
+#a2{
+    background-color: blue;
+    margin-top: -121px;
+    margin-left: 209px;
+}
+#a3{
+    background-color: blueviolet;
+    margin-top: -122px;
+    margin-left: 287px;
+}
+#a4{
+    background-color: brown;
+    margin-top: -122px;
+    margin-left: 365px;
+}
+#a5{
+    background-color: chartreuse;
+    margin-top: -122px;
+    margin-left: 443px;
+}
+#a6{
+    background-color: coral;
+    margin-top: -122px;
+    margin-left: 521px;
+}
+#a7{
+    background-color: darkgreen;
+    margin-top: -122px;
+    margin-left: 599px;
+}
+#a8{
+    background-color: darkviolet;
+    margin-top: -122px;
+    margin-left: 677px;
+}
+#a9{
+    background-color: firebrick;
+    margin-top:-122px;
+    margin-left: 755px;
+}
+#s1{
+    background-color: rgb(243, 14, 140);
+    margin-top: -246px;
+    margin-left: 208px;
+}
+#s2{
+    background-color: indigo;
+    margin-top: -122px;
+    margin-left: 286px;
+}
+#s3{
+    background-color: lightcoral;
+    margin-top: -122px;
+    margin-left: 365px;
+}
+#s4{
+    background-color: lightseagreen;
+    margin-top: -122px;
+    margin-left: 443px;
+}
+#s5{
+    background-color: lime;
+    margin-top: -122px;
+    margin-left: 521px;
+}
+#s6{
+    background-color: rgb(238, 12, 238);
+    margin-top: -122px;
+    margin-left: 599px;
+}
+#s7{
+    background-color: mediumspringgreen;
+    margin-top: -122px;
+    margin-left: 678px;
+}
+#q1{
+    background-color: rgb(250, 9, 61);
+    margin-top: -246px;
+    margin-left: 286px;
+}
+#q2{
+    background-color: rgb(167, 113, 14);
+    margin-top: -122px;
+    margin-left: 364px;
+}
+#q3{
+    background-color: red;
+    margin-top: -122px;
+    margin-left: 442px;
+}
+#q4{
+    background-color: pink;
+    margin-top: -122px;
+    margin-left: 521px;
+}
+#q5{
+    background-color: goldenrod;
+    margin-top: -122px;
+    margin-left: 599px;
+}
